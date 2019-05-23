@@ -25,6 +25,7 @@ public class Student {
      */
     public void setFirstName(String FirstName) {
         this.FirstName = FirstName;
+        System.out.println("");
     }
 
     /**
